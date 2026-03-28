@@ -1,5 +1,7 @@
 # rubberduck-mcp
 
+> ⚠️ **Maintenance Mode** — This project is no longer actively developed. It should still work with compatible versions of Rubberduck VBA, but there are no plans for new features or bug fixes. Pull requests from the community are welcome if you'd like to maintain a fork.
+
 A TypeScript-based Model Context Protocol (MCP) server that bridges AI assistants with Rubberduck VBA's source control and code analysis functionality.
 
 ## Overview
